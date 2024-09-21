@@ -714,11 +714,3 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "318069e00a76ad4ff9e65daf829f43b03f0c9495046ba2f6f80dce4cb442c9d8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "7d067abb6f0e2b834519677ee71ee697601e9f5c2e2e775e1384c604168b8833"
-
-[[files]]
-file = "servers.dat"
-hash = "513b279c8a6a2a3d4f9b748ee04a58e9d2ca416008f28f39a8a56d51199418b1"
