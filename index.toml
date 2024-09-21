@@ -31,8 +31,18 @@ hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "724353a7730f54b29378ba8e374c78372c8a8f072e578b5758b11fc150f470b7"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-base.pw.toml"
+hash = "2c05589983f4432f7f2f540bc9f38a030b21f2424dba577d6a8df68fd56a662a"
 metafile = true
 
 [[files]]
@@ -53,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
+metafile = true
+
+[[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
 metafile = true
 
 [[files]]
@@ -236,11 +251,6 @@ hash = "9cfd6a7c8859130b51a25a5ad72faf4b91722fb7cd09f13151664655431f9eab"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
@@ -271,6 +281,11 @@ hash = "8b7116df5d0e1e4af28ad8e3c2011840713efa3c235f9b058455b04830920a5b"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "8a1832e5352f6ea6307b9af759034ac9a9b654823120cc8181f7f36171d7c24f"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "5ac2c544cb5c88e6b9c26a063556fae76e06b6f93753d915aef7bfacf4b3860f"
 metafile = true
@@ -298,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "dc8402861f6a016a0e2055cf40f6ec783a4d5a3dac48f777ae7d116f1bac4fe1"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
 
 [[files]]
@@ -714,3 +734,11 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "318069e00a76ad4ff9e65daf829f43b03f0c9495046ba2f6f80dce4cb442c9d8"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7d067abb6f0e2b834519677ee71ee697601e9f5c2e2e775e1384c604168b8833"
+
+[[files]]
+file = "servers.dat"
+hash = "513b279c8a6a2a3d4f9b748ee04a58e9d2ca416008f28f39a8a56d51199418b1"
