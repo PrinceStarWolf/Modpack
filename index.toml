@@ -1,0 +1,127 @@
+hash-format = "sha256"
+
+[[files]]
+file = "modlist.txt"
+hash = "3ce2595be34b7f10e0be6b4aa87aeb90fb27917058ba9873d7ba7aba61fc27e7"
+
+[[files]]
+file = "mods.sh"
+hash = "08b7f8d20a200b164af6e3cb18f8a1f59d715108c098725d633f4978251157e9"
+
+[[files]]
+file = "mods/arrp.pw.toml"
+hash = "6a3c8dc042cb38689a43cb3820d2aea344cc09e80b5c694ca834ce8dccea44e2"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
+metafile = true
+
+[[files]]
+file = "mods/better-trim-tooltips.pw.toml"
+hash = "c538e03aae4f6895c3a43fc3be25f2360d787dbb4ecb1460d1636b344b3ee5ea"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "35748ba1774c609c686f38c06be59af6542a6f67003882dcebc36465bcb49bbe"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "4e5354b121b295fd9e871c2f9c35eea7b525b63e928703be7e3340220316f022"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "496e35148486c6715340bc395e27521a06c0de7005b554b420de945ef0fbf294"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5e82a66ffe393248e8465e038352a6ca04773fc4ffca58f5f53204feccf16ae6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "8b7116df5d0e1e4af28ad8e3c2011840713efa3c235f9b058455b04830920a5b"
+metafile = true
+
+[[files]]
+file = "mods/guarding.pw.toml"
+hash = "5ac2c544cb5c88e6b9c26a063556fae76e06b6f93753d915aef7bfacf4b3860f"
+metafile = true
+
+[[files]]
+file = "mods/medievalweapons.pw.toml"
+hash = "2dd15675539fc3bd42318e59a79da48e7bbc570446efd65a3a78ea9704328049"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "be3e8357614fde57b98700cce139b1b3473018fedcec59102a898d61057c1a4a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "36e01db593f1e01ad0e6cb2d437f6e6b60a982997ff1cc1cfde197d84a7c8505"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "141cdd7d3bdbfb67bb1571c89a41018150caee637c03c464e4f2608a88a9af4a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7d067abb6f0e2b834519677ee71ee697601e9f5c2e2e775e1384c604168b8833"
+
+[[files]]
+file = "servers.dat"
+hash = "513b279c8a6a2a3d4f9b748ee04a58e9d2ca416008f28f39a8a56d51199418b1"

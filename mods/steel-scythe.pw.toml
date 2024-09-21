@@ -1,0 +1,13 @@
+name = "Steel Scythe"
+filename = "steel_scythe-1.0.3_1.20+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ruw5zSxX/versions/B4ZnKYlh/steel_scythe-1.0.3_1.20%2B.jar"
+hash-format = "sha512"
+hash = "fb193f2cf45004ea64d42aa7b9ecd2b66dd38b4acb2331f8965eef0f5fda6e9d8532b36a27d0f5bd0f2003be822829254ec59057b00965de68989ead61e384d9"
+
+[update]
+[update.modrinth]
+mod-id = "Ruw5zSxX"
+version = "B4ZnKYlh"

@@ -1,0 +1,13 @@
+name = "Rexa"
+author = "Lhucia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "94d4c01e341e073bf914bcacb93696b32ed2a84dc04463c1cc56fe2dc5afc4b7"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.1"

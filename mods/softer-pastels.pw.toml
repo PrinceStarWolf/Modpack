@@ -1,0 +1,13 @@
+name = "Softer Pastels"
+filename = "SofterPastels-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ls8M8ohO/versions/5SPYdjI7/SofterPastels-0.4.0.jar"
+hash-format = "sha512"
+hash = "a796b902a75a62f2928db270ed556a5793d4ea96fbcd1a25eded881f184cfa53c02754cbb1689da54122442af5d6fd3aaee0a446d88e769601c68841d0f5d20b"
+
+[update]
+[update.modrinth]
+mod-id = "Ls8M8ohO"
+version = "5SPYdjI7"

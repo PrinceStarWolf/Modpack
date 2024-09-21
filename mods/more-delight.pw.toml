@@ -1,0 +1,13 @@
+name = "More Delight"
+filename = "moredelight-24.09.16-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/eYF5eqGY/moredelight-24.09.16-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "aa72c9ff85eda9e4921c15000c319e5de255fbc724335f7c4008b5b407a8c41b14d7d91e493c288a812f1590d8b77b839dca30c1e363811af8b86aceaa2fa780"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "eYF5eqGY"

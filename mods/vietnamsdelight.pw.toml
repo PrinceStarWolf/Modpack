@@ -1,0 +1,13 @@
+name = "Vietnam's Delight"
+filename = "vietnamsdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hMfC4CcJ/versions/kPnLKyAE/vietnamsdelight-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "335750daa34629d0910fe7b77b709b6d4012ebc639fa522fac7222bdb77b8258dc2352a3b44428e89924f4541eba0216d82cba3cc6d3b2e692c80b554029cb66"
+
+[update]
+[update.modrinth]
+mod-id = "hMfC4CcJ"
+version = "kPnLKyAE"
