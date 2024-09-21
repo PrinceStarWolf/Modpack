@@ -666,11 +666,6 @@ hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
-file = "mods/way2wayfabric.pw.toml"
-hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
-metafile = true
-
-[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "2f08209635fc2e5b067b91774fc17807cde820771bffd86aa55caae66c78e88f"
 metafile = true
